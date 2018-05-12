@@ -1,0 +1,37 @@
+_repo: Japanese-Prints_27199
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Lathrop, Dorothy Pulis
+    alias: Lathrop, Dorothy P. (Dorothy Pulis)
+    birthdate: 1891
+    deathdate: 1980
+    gutenberg_agent_id: '32530'
+    url: http://www.gutenberg.org/2009/agents/32530
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fletcher, John Gould
+    birthdate: 1886
+    deathdate: 1950
+    gutenberg_agent_id: '32529'
+    url: http://www.gutenberg.org/2009/agents/32529
+    wikipedia: http://en.wikipedia.org/wiki/John_Gould_Fletcher
+description: ''
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2008-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27199'
+  lccn: '18017484'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+title: Japanese Prints
+url: http://www.gutenberg.org/ebooks/27199
