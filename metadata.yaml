@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32529
     wikipedia: http://en.wikipedia.org/wiki/John_Gould_Fletcher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27199#Japanese-Prints
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2008-11-08'
 gutenberg_type: Text
